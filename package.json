@@ -1,0 +1,15 @@
+{
+  "name": "new_publish_update",
+  "version": "1.0.0",
+  "description": "teste_publish_update",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ." 
+  },
+  "author": "guidiju",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
